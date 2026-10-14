@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+jupyter
+torchvision   # optional: used only for an extra IoU/GIoU cross-check
